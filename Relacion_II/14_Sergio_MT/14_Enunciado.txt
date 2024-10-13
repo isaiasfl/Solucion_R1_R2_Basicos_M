@@ -1,0 +1,3 @@
+Escribe una función llamada rangoNumeros que tome dos números inicio y fin . La
+función debe devolver un array que contenga todos los números en el rango desde inicio
+hasta fin , incluyendo ambos números.
