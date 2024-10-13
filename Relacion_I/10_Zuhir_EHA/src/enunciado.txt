@@ -1,0 +1,8 @@
+
+Ejercicio 10    
+ 
+Dividir Fragmentos
+
+Escribe una función llamada dividirFragmento que tome un array arr y un número entero
+tamano . La función debe dividir el array en fragmentos de tamaño tamano y devolver un nuevo
+array con los Fragmentos.
