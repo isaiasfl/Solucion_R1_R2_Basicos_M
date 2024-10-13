@@ -1,0 +1,6 @@
+
+Ejercicio 12
+
+Dado un objeto con varias propiedades, usa delete para eliminar una propiedad específica.
+
+const libro = { titulo: "1984", autor: "George Orwell", paginas: 328 };
