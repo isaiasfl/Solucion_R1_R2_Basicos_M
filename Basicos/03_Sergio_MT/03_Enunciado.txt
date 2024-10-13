@@ -1,0 +1,4 @@
+Dado un array de números, usa some para verificar si existe algún número mayor a 100 y every para
+comprobar si todos los números son positivos.
+// Enunciado
+const numeros = [1, 50, 75, 99];
